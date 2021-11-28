@@ -21,3 +21,9 @@
 
 </p>
 
+## Kaggle
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satoshissss/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satoshissss/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satoshissss/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satoshissss/discussion)
