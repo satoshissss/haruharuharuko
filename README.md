@@ -36,3 +36,13 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=haruharuharuko&theme=algolia&column=7
 )
+
+
+## Cat
+
+<a href="https://satoshisekioka.page/">
+    <img  height=auto  width=auto src="https://satoshisekioka.page/static/orenonekoda2fdf.jpg"/>
+</a>
+
+
+
