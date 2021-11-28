@@ -1,11 +1,9 @@
 <p align="left"> 
-  
-  
+    
   <a href="https://github.com/haruharuharuko/haruharuharuko/">
     <img src="https://komarev.com/ghpvc/?username=haruharuharuko" alt="haruharuharuko" />
   </a>
   
-    
   <a href="https://www.kaggle.com/satoshissss">
     <img height="20" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/satoshissss" />
   </a>
@@ -18,7 +16,6 @@
     <img height="20" src="https://img.shields.io/github/followers/haruharuharuko?label=follow&logo=github&style=flat" />
   </a>
 
-
 </p>
 
 ## Kaggle
@@ -29,7 +26,13 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satoshissss/discussion)
 
 
-## GitHub Readme Stats
+## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruharuharuko&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruharuharuko&layout=compact&theme=algolia&show_icons=true)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruharuharuko&layout=compact&theme=algolia&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=haruharuharuko&theme=algolia&show_icons=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haruharuharuko&theme=algolia&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
