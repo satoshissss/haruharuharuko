@@ -11,7 +11,7 @@
     <img height="20" src="https://img.shields.io/github/followers/haruharuharuko?label=follow&logo=github&style=flat" />
   </a>
   
-  ![4721461](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{4721461})
+  ![4721461](https://road-to-kaggle-grandmaster.vercel.app/api/simple/4721461)
 
   
 </p>
