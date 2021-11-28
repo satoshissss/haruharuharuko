@@ -27,3 +27,7 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satoshissss/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satoshissss/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satoshissss/discussion)
+
+
+## GitHub Readme Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruharuharuko&theme=algolia&show_icons=true)
