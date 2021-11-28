@@ -30,4 +30,6 @@
 
 
 ## GitHub Readme Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruharuharuko&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruharuharuko&layout=compact&theme=algolia&show_icons=true)
