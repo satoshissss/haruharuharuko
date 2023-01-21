@@ -1,7 +1,7 @@
 <p align="left"> 
     
-  <a href="https://github.com/haruharuharuko/haruharuharuko/">
-    <img src="https://komarev.com/ghpvc/?username=haruharuharuko" alt="haruharuharuko" />
+  <a href="https://github.com/satoshissss/satoshissss/">
+    <img src="https://komarev.com/ghpvc/?username=satoshissss" alt="satoshissss" />
   </a>
   
   <a href="https://www.kaggle.com/satoshissss">
@@ -12,8 +12,8 @@
     <img height="20" src="https://img.shields.io/twitter/follow/__SatoshiSsSs__?label=Twitter&logo=twitter&style=flat" />
   </a>
   
-  <a href="https://github.com/haruharuharuko">
-    <img height="20" src="https://img.shields.io/github/followers/haruharuharuko?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/satoshissss">
+    <img height="20" src="https://img.shields.io/github/followers/satoshissss?label=follow&logo=github&style=flat" />
   </a>
 
 </p>
@@ -30,11 +30,11 @@
 
 
 <p align="left"> 
-<!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruharuharuko&layout=compact&theme=algolia&show_icons=true" /> -->
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=haruharuharuko&theme=algolia&show_icons=true" />
+<!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshissss&layout=compact&theme=algolia&show_icons=true" /> -->
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=satoshissss&theme=algolia&show_icons=true" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=haruharuharuko&theme=algolia&column=7
+![trophy](https://github-profile-trophy.vercel.app/?username=satoshissss&theme=algolia&column=7
 )
 
 
@@ -43,6 +43,3 @@
 <a href="https://satoshisekioka.page/">
     <img  height=auto  width=auto src="https://satoshisekioka.page/static/orenonekoda2fdf.jpg"/>
 </a>
-
-
-
